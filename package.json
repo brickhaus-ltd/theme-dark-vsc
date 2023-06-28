@@ -1,0 +1,21 @@
+{
+  "name": "brick-haus-dark",
+  "displayName": "Brick!@#$ Haus Dark",
+  "description": "VSC Theme, built from bricks.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Brick!@#$ Haus Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Brick-Haus-Dark.json"
+      }
+    ]
+  }
+}
